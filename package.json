@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/emilyelizabethdaniel/progressiveBudget/issues"
   },
-  "homepage": "https://github.com/emilyelizabethdaniel/progressiveBudget#readme"
+  "homepage": "https://github.com/emilyelizabethdaniel/progressiveBudget#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "morgan": "^1.10.0"
+  }
 }
